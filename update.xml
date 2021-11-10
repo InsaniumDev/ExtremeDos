@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ExtremeUpdate>
-	<update appID="ExtDos"
+	<update appID="ExtDos">
 		<version>2.0.0.0</version>
 		<url>https://github.com/IfinderCodes/ExtremeDos/raw/main/ExtDos.exe</url>
 		<filename>ExtDos.exe</filename>
