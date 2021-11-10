@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ExtremeUpdate>
+	<update appID="E^D"
+		<version>2.0.0.0</version>
+		<url>https://github.com/IfinderCodes/ExtremeDos/raw/main/E%5Ed.exe</url>
+		<filename>E^D.exe</filename>
+		<md5>7d16291520e97966060c8f37f06938b9</md5>
+		<description>First update! It's a test though.</description>
+		<launchArgs>a</launchArgs>
+	</update>
+</ExtremeUpdate>
